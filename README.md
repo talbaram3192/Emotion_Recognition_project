@@ -7,9 +7,9 @@ This project is a part of the final **Data Mining** project for **ITC Fellow Pro
 
 Datasets used in this project
 * Crowd-sourced Emotional Mutimodal Actors Dataset (**Crema-D**)
-* Ryerson Audio-Visual Database of Emotional Speech and Song (**Ravdess**)
-* Surrey Audio-Visual Expressed Emotion (**Savee**)
-* Toronto emotional speech set (**Tess**)
+* Ryerson Audio-Visual Database of Emotional Speech and Song (**Ravdess**: https://zenodo.org/record/1188976#.YDU_i-hvbIX)
+* Surrey Audio-Visual Expressed Emotion (**Savee**: http://kahlan.eps.surrey.ac.uk/savee/Download.html)
+* Toronto emotional speech set (**Tess**: https://tspace.library.utoronto.ca/handle/1807/24487)
 
 Digital signal processing is an emerging field of research in this era. Recently, many researchers have developed a various approaches in this area for SER from over the past decade.
 
@@ -43,11 +43,6 @@ After that you can run the app
 ```sh
 !streamlit run api-test.py
 ```
-## Datasets
-We used 3 different datasets for this project:
-  - RAVDESS: https://zenodo.org/record/1188976#.YDU_i-hvbIX
-  - TESS: https://tspace.library.utoronto.ca/handle/1807/24487
-  - SAVEE: http://kahlan.eps.surrey.ac.uk/savee/Download.html
 
 ## Usage
 Example of an execution:
