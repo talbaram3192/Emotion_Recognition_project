@@ -24,8 +24,7 @@ Mel-Frequency Cepstral Coefficients, which are a representation of the short-ter
 
 The Mel scale is important because it better approximates human-based perception of sound as opposed to linear scales. In filter-source theory, "the source is the vocal cords and the filter represents the vocal tract." The length and shape of the vocal tract determine how sound is outputted from a human and the cepstrum can describe the filter. 
 
-In our project we have combined two models: pretrained DenseNet for mel-spectrograms and CNN for mfccs. 
-You can find a more detailed description, EDA and ML models [here](https://github.com/talbaram3192/Emotion_Recognition)
+In our project we have combined two models: pretrained DenseNet for mel-spectrograms and CNN for MFCC's. 
 
 ## Installation
 
@@ -44,6 +43,12 @@ After that you can run the app
 ```sh
 !streamlit run api-test.py
 ```
+## Datasets
+We used 3 different datasets for this project:
+  - RAVDESS: https://zenodo.org/record/1188976#.YDU_i-hvbIX
+  - TESS: https://tspace.library.utoronto.ca/handle/1807/24487
+  - SAVEE: http://kahlan.eps.surrey.ac.uk/savee/Download.html
+
 ## Usage
 Example of an execution:
 
