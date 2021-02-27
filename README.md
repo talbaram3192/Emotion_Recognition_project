@@ -50,7 +50,7 @@ Example of an execution:
 ![Alt Text](demo.gif)
 
 ## Our app
-Check out our app: http://34.217.73.51:8501/
+Check out our app: http://34.217.207.244:8501/
 
 ## Our Medium article
 Check out our Medium article about this subject: https://talbaram3192.medium.com/classifying-emotions-using-audio-recordings-and-python-434e748a95eb
